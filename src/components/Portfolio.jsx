@@ -22,7 +22,7 @@ const Portfolio = () => {
       id: 3,
       src: portfolio,
       name: "Portfolio",
-      link: "https://github.com/vduong2k2/Tech-shop",
+      link: "https://github.com/vduong2k2/portfolio",
     },
   ];
 
