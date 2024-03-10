@@ -37,7 +37,7 @@ const Experience = () => {
     {
       id: 5,
       src: node,
-      title: "Next JS",
+      title: "Node JS",
       style: "shadow-white",
     },
     {
