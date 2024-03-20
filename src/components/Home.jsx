@@ -14,10 +14,7 @@ const Home = () => {
             I'am Viet Duong
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi autem
-            reiciendis assumenda, quo, ratione amet deleniti excepturi dicta
-            consequatur repellat labore placeat quaerat inventore dolor
-            officiis. Sit tempora ipsa cupiditate!
+            Desire for learning and skill improvement.
           </p>
           <div>
             <button className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
